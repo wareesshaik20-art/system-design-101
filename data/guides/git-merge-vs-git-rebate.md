@@ -1,5 +1,5 @@
 ---
-title: "Git Merge vs. Git Rebase"
+
 description: "Understand the difference between Git merge and Git rebase commands."
 image: "https://assets.bytebytego.com/diagrams/0203-git-merge-git-rebase.jpg"
 createdAt: "2024-02-28"
